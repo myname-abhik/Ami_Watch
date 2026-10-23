@@ -1,0 +1,8 @@
+{
+  "name": "Ami Watch",
+  "description": "Movie discovery, streaming, and preview web application.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

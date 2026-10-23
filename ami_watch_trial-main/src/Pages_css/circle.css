@@ -1,0 +1,90 @@
+.circle-container {
+    position: fixed;
+    width: 52px;
+    height: 52px;
+    bottom: 30px;
+    right: 28px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.circle-container.hidden {
+    opacity: 0;
+    transform: scale(0.85);
+    pointer-events: none;
+}
+
+.circle-container.visible {
+    opacity: 1;
+    transform: scale(1);
+    pointer-events: auto;
+}
+
+.circle-container:hover {
+    transform: scale(1.08);
+}
+
+/* Simple transparent ring wrapper - NO SHADOWS, ONLY TRANSPARENT */
+.circle-glass-ring {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    position: relative;
+    padding: 2.5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    box-shadow: none !important;
+}
+
+/* Inner disc - completely transparent, no background color, no shadow */
+.circle-inner-glass {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: transparent !important;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    box-shadow: none !important;
+}
+
+/* Percentage & Icon */
+.percentage-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: transparent !important;
+}
+
+.percentage-text {
+    font-size: 11px;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif;
+    color: #ffffff;
+    letter-spacing: -0.2px;
+    line-height: 1;
+}
+
+.scroll-arrow-icon {
+    font-size: 12px;
+    line-height: 1;
+    color: #f59e0b;
+    margin-bottom: 1px;
+}
+
+.circle-container:hover .scroll-arrow-icon {
+    color: #fbbf24;
+}

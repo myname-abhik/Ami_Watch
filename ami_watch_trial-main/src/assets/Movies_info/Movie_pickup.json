@@ -1,0 +1,32 @@
+[
+    {
+        "Movie_poster": "/Movie_content/20th_Century_Girl.jpg",
+        "Movie_title" : "20th Century Girl",
+        "Movie_feature" : "Sub"
+    },
+    {
+        "Movie_poster": "/Movie_content/MV5BNDFkYmM3MGMtYWIwNC00ZDkxLWFjZjItYmQ4NTdiZWNjMzczXkEyXkFqcGc@._V1_.jpg",
+        "Movie_title" : "Hometown Cha-Cha-Cha",
+        "Movie_feature" : "Sub"
+    },
+    {
+        "Movie_poster": "/Movie_content/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "Movie_title" : "Spirited Away",
+        "Movie_feature" : "Sub"
+    },
+    {
+        "Movie_poster": "/Movie_content/MV5BM2MyYjg0NWMtMjUyMy00Mzg4LTk5NDYtYzcxNmJhOTVhMmU0XkEyXkFqcGc@._V1_.jpg",
+        "Movie_title" : "Oppenheimer",
+        "Movie_feature" : "Sub"
+    },
+    {
+        "Movie_poster": "/Movie_content/Tom.jpg",
+        "Movie_title" : "Impossible - Dead Reckoning",
+        "Movie_feature" : "Sub"
+    },
+    {
+        "Movie_poster": "/Movie_content/inter.jpg",
+        "Movie_title" : "Interstellar",
+        "Movie_feature" : "Sub"
+    }
+]

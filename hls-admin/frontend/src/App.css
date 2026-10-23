@@ -1,0 +1,11 @@
+.wrap { max-width: 900px; margin: 0 auto; padding: 24px 16px; }
+header { display: flex; align-items: baseline; justify-content: space-between; }
+h1 { margin: 0 0 16px; font-size: 22px; }
+h2 { font-size: 18px; margin: 14px 0 0; }
+header a { color: inherit; opacity: .7; font-size: 14px; }
+.note { opacity: .75; }
+.note.error { color: #dc2626; opacity: 1; }
+.list { list-style: none; padding: 0; margin: 20px 0 0; display: grid; gap: 6px; }
+.list button { width: 100%; text-align: left; padding: 9px 12px; border-radius: 8px; border: 1px solid rgba(128,128,128,.35); background: transparent; color: inherit; cursor: pointer; font: inherit; }
+.list button:hover { background: rgba(128,128,128,.12); }
+.list button.active { border-color: #4f46e5; background: rgba(79,70,229,.12); }

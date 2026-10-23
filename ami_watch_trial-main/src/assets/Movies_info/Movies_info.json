@@ -1,0 +1,31 @@
+[
+{
+    "Poster" : "/Movie_content/1299334.jpg",
+    "Movie": "Suzume",
+    "Features": ["Dub", "Sub"],
+    "Genres": ["Drama","Fantasy","Supernatural"],
+    "Description": "A modern action adventure road story where a 17-year-old girl named Suzume helps a mysterious young man close doors from the other side that are releasing disasters all over in Japan."
+}
+,
+{
+    "Poster" : "/Movie_content/HD-wallpaper-peaky-blinders-thomas-shelby-tv-series.jpg",
+    "Movie": "peaky-blinders",
+    "Features": ["Dub", "Sub"],
+    "Genres": ["Gangster", "Period Drama","Crime" ],
+    "Description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby."
+}
+,{
+    "Poster" : "/Movie_content/spirited-away-4k-upscaled-samples-v0-7uhyv9zj4dea1.webp",
+    "Movie": "Spirited Away",
+    "Features": ["Dub", "Sub"],
+    "Genres": ["Gangster", "Period Drama","Crime" ],
+    "Description": "Ten-year-old Chihiro and her parents end up at an abandoned amusement park inhabited by supernatural beings. Soon, she learns that she must work to free her parents who have been turned into pigs."
+},
+{
+    "Poster" : "/Movie_content/the-wind-rises-wallpaper-17c1169820060d9969b728ab21c2d546.jpg",
+    "Movie": "the-wind-rises",
+    "Features": ["Dub", "Sub"],
+    "Genres": ["Gangster", "Period Drama","Crime" ],
+    "Description": "Jiro Horikoshi studies assiduously to fulfil his aim of becoming an aeronautical engineer. As WWII begins, fighter aircraft designed by him end up getting used by the Japanese Empire against its foes."
+}
+]

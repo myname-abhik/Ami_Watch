@@ -1,0 +1,16 @@
+.Mov{
+    width: 1920px;
+    height: 100vh;
+    /* background-image: url('https://www.w3schools.com/w3css/img_fjords.jpg'); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    /* background-color: #111; */
+}
+.video
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
